@@ -1,2 +1,7 @@
 # Driver_Data
 This repository contains degree exercise
+
+# Abstract
+This paper aims to examine driving data to enhance road safety and reduce traffic accidents. The issue of traffic accidents unfortunately exists with significant consequences. The purpose of this paper is to record driving habits to assist the automotive industry. This endeavor is primarily driven by the development of smart software and systems that support drivers during their journeys. The study seeks to categorize driver behavior by creating profiles that provide information to the automotive industry regarding driving habits. The methodology employed includes various techniques such as k-Fold cross-validation, Percentile, RandomForest, KNN, and GaussianNB, aiming to analyze driving data and create driving profiles. The classification was conducted for seven drivers (different entities). The accuracy rates of the algorithms range from 61% for the RandomForest algorithm, 46% for the KNN algorithm, to 40% for the GaussianNB algorithm. The main results of this research are expected to contribute to understanding driver behavior and improve road safety, with potential applications in the transportation sector. Thus, this work highlights the importance of knowledge extraction from driving data to increase road safety and reduce traffic accidents.
+
+Keywords:Classification, driving profiles, road safety, prediction techniques.
